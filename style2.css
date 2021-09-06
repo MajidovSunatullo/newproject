@@ -1,0 +1,27 @@
+.bor{
+    width: 250px;
+    border: 5px  solid blue;
+}
+.rasm{
+    width: 100%;
+}
+bor_2{
+    padding: 50px;
+    /* box-sizing: border-box; */
+}
+.bor{
+    padding: 20px;
+
+}
+.but{
+    background-color: blueviolet;
+color: white;
+padding: 8px;
+}
+.boss{
+border:solid 2px
+
+}
+.full{
+    width: 20%;
+}

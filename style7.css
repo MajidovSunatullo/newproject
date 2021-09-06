@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.god img{
+    width: 100px;
+    height: 100px;
+}
+.god{
+border: 3px dashed yellow;
+width: 20%;
+padding: 20px;
+
+
+}
+.hed h3{
+color: springgreen;
+}
+.css{
+    background-color: rosybrown;
+    color: slateblue;
+}
+.css a{
+    text-decoration: none ;
+    color: chartreuse;
+}
+

@@ -1,0 +1,36 @@
+/* .content{
+    width: 200%;
+    height: 500px;
+    background-color: 
+    position: relative;
+}
+.content img{
+    position: absolute;
+    width: 300px;
+    top: 20%;
+    left: 20%;
+
+}
+P{
+    font-size: 20PX;
+} */
+.card{
+    width: 250px;
+    /* background-color: red; */
+    border:4px solid yellow;
+
+}
+.card-img{
+    width: 100%;
+}
+.card-body{
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+.card-btn{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    
+}
